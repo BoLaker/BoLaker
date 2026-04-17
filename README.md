@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Pontus! 👋 
 
-<!--
-**BoLaker/BoLaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **IT Engineering Student at Chalmers University of Technology** with a passion for mathematics and software development.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Currently pursuing my degree in Information Technology.
+- 📈 Interested in Machine Learning, and the mathematics behind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Profile
+- **Machine Learning Stack:** Experienced with **NumPy**, **Pandas**, and **Matplotlib**.
+- **Programming:** Skilled in **Python** and **Java**, with a focus on Object-Oriented Programming (OOP), design patterns, and efficient data structures.
+- **Tools & Workflow:** Experienced in **Git** (commits, branching, merging).
+- **Mathematics:** Solid foundation in discrete mathematics, calculus, linear algebra, and mathematical statistics.
+
+### 🔍 Seeking Summer Internship 2025
+I am currently looking for a **summer internship** or a junior role within **Software Development, IT-systems, or Technical Analysis**. 
+
+### 📫 Let's Connect!
+- 📍 Based in Gothenburg/Mölndal, Sweden
+- 📧 [pontus@hemert.se](mailto:pontus@hemert.se)
+- 👔 [Pontus Gustafsson](linkedin.com/in/pontus-gustafsson-8b00863a7)
