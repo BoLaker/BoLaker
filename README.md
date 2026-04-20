@@ -12,7 +12,7 @@ I am an **IT Engineering Student at Chalmers University of Technology** with a p
 - **Tools & Workflow:** Experienced in **Git** (commits, branching, merging).
 - **Mathematics:** Solid foundation in discrete mathematics, calculus, linear algebra, and mathematical statistics.
 
-### 🔍 Seeking Summer Internship 2025
+### 🔍 Seeking Summer Internship 2026
 I am currently looking for a **summer internship** or a junior role within **Software Development, IT-systems, or Technical Analysis**. 
 
 ### 📫 Let's Connect!
